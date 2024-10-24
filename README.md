@@ -5,6 +5,7 @@
 
 This bot is designed for OSINT (Open Source Intelligence) tasks, providing efficient capabilities through Telegram. With features like wordlist searches, token management, and log analysis, it integrates powerful C++ log parsing to deliver fast results. User activities and search logs are automatically saved in a SQLite database for further review.
 
+To add the Logs you must leave the .txt in the “cloud” folder, there the logs.txt will go. You can get free CLOUDLOGS in telegram, forums or paid, that's up to you!
 ---
 
 ## 🚀 **Features**
