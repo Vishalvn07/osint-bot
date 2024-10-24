@@ -42,6 +42,8 @@ This bot is designed for OSINT (Open Source Intelligence) tasks, providing effic
 |---------------------------------------|-----------------------------------------------------------------------------|
 | `/addtoken <token> <usage_limit>`     | Adds a new token with a specific usage limit.                               |
 | `/adduser <user_id>`                  | Adds a user to the system with a specific token.                            |
+| `/count <1000>`                       | Adds to database numbers of parameters                                      |
+| `/dcount <1000>`                      | Remove to database numbers of parameters                                    |
 
 ---
 
