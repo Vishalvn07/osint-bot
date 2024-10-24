@@ -1,4 +1,4 @@
-# **OSINT Bot by @Lawxsz** 🌐
+# **OSINT Bot Telegram** 🌐
 
 ![OSINT Bot](https://i.imgur.com/OKZubqZ.png) 
 ![OSINT Bot](https://i.imgur.com/WNXscmd.png) 
@@ -42,8 +42,6 @@ This bot is designed for OSINT (Open Source Intelligence) tasks, providing effic
 |---------------------------------------|-----------------------------------------------------------------------------|
 | `/addtoken <token> <usage_limit>`     | Adds a new token with a specific usage limit.                               |
 | `/adduser <user_id>`                  | Adds a user to the system with a specific token.                            |
-| `/removetoken <token>`                | Removes a token from the system.                                            |
-| `/resetstats <user_id>`               | Resets search stats for a specific user.                                    |
 
 ---
 
