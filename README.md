@@ -1,4 +1,5 @@
 # **OSINT Bot Telegram** 🌐
+.[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Vishalvn07/osint-bot)
 
 ![OSINT Bot](https://i.imgur.com/OKZubqZ.png) 
 ![OSINT Bot](https://i.imgur.com/WNXscmd.png) 
